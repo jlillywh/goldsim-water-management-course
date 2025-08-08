@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Backup directories (course-specific)
+backup_*/
+
+# Temporary files and directories
+temp/
+tmp/
+*.tmp
+*.temp
+
+# Image processing temporary files
+c:\temp\course-captures\
+processed/
+web/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Log files
+*.log
+
+# Course-specific temporary files
+course_outline.txt
+*.bak
+
+# PowerShell execution policy files
+*.ps1xml
+
+# Exclude large media files if any
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+
+# Keep images but exclude large unoptimized originals if they exist
+# (Uncomment if you have a separate raw images directory)
+# images/raw/
+# images/unoptimized/
