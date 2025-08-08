@@ -9,18 +9,18 @@ The course is organized into three main parts, building from foundational concep
 <!-- COURSE_OUTLINE_START -->
 ### Unit 1: Foundations and Data Preparation
 - Lesson 01: [Welcome To The Course](01-01-welcome-to-the-course.md)
-- Lesson 03: [Course Resources And Setup](01-03-course-resources-and-setup.md)
-- Lesson 05: [What Makes Water Management Modeling Unique](01-05-what-makes-water-management-modeling-unique.md)
-- Lesson 06: [Overview Of A Water Management System Model](01-06-overview-of-a-water-management-system-model.md)
-- Lesson 07: [Thinking In Goldsim Dynamic Simulation Primer](01-07-thinking-in-goldsim-dynamic-simulation-primer.md)
-- Lesson 08: [Understanding Temporal And Spatial Scales](01-08-understanding-temporal-and-spatial-scales.md)
-- Lesson 09: [Representing Data In Goldsim](01-09-representing-data-in-goldsim.md)
-- Lesson 10: [Modeling Workflow And Best Practices](01-10-modeling-workflow-and-best-practices.md)
+- Lesson 02: [Course Resources And Setup](01-02-course-resources-and-setup.md)
+- Lesson 03: [What Makes Water Management Modeling Unique](01-03-what-makes-water-management-modeling-unique.md)
+- Lesson 04: [Overview Of A Water Management System Model](01-04-overview-of-a-water-management-system-model.md)
+- Lesson 05: [Thinking In Goldsim Dynamic Simulation Primer](01-05-thinking-in-goldsim-dynamic-simulation-primer.md)
+- Lesson 06: [Understanding Temporal And Spatial Scales](01-06-understanding-temporal-and-spatial-scales.md)
+- Lesson 07: [Representing Data In Goldsim](01-07-representing-data-in-goldsim.md)
+- Lesson 08: [Modeling Workflow And Best Practices](01-08-modeling-workflow-and-best-practices.md)
 
 ### Unit 2: Climate Data and Weather Modeling
 - Lesson 01: [Working With Precipitation Data](02-01-working-with-precipitation-data.md)
-- Lesson 03: [Stochastic Weather Generation](02-03-stochastic-weather-generation.md)
-- Lesson 05: [Practical Implementation The Precipgen Simulator](02-05-practical-implementation-the-precipgen-simulator.md)
+- Lesson 02: [Stochastic Weather Generation](02-02-stochastic-weather-generation.md)
+- Lesson 04: [Practical Implementation The Precipgen Simulator](02-04-practical-implementation-the-precipgen-simulator.md)
 - Lesson 06: [Design Storms](02-06-design-storms.md)
 - Lesson 07: [Working With Temperature Data](02-07-working-with-temperature-data.md)
 - Lesson 08: [Handling Climate Data Gaps And Spatial Variability](02-08-handling-climate-data-gaps-and-spatial-variability.md)
