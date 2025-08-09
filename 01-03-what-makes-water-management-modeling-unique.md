@@ -1,4 +1,3 @@
-
 # Lesson 3: What Makes Water Management Modeling Unique
 
 ## Learning Objectives

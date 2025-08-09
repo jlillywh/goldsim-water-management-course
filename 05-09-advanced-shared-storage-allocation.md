@@ -22,6 +22,9 @@ In Lessons 1 and 2, we modeled reservoirs serving single purposes with unified m
 
 This lesson addresses the most challenging aspect of water management: **how to fairly and legally allocate limited water resources among competing users**. The techniques you'll learn form the foundation for water rights modeling, shortage management, and multi-stakeholder planning processes.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Conceptual Framework: The Reservoir as a Multi-Account Bank
@@ -276,6 +279,12 @@ Advanced shared storage allocation is essential for multiple aspects of professi
 - **Realistic multi-stakeholder models** must account for different demand patterns, priorities, and operational strategies among users
 - **Scenario analysis reveals system vulnerabilities** and helps identify strategies for improving overall system performance
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of advanced shared storage allocation concepts:

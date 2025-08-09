@@ -21,6 +21,9 @@ In Lesson 1, we learned to model reservoirs as dynamic storage systems that inte
 
 This lesson transforms your reservoir models from simple accounting tools into sophisticated representations of real-world water management systems. Mastering these techniques is essential for modeling everything from small municipal systems to complex multi-reservoir networks.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Seasonal Rule Curves: Time-Based Operations
@@ -280,6 +283,12 @@ Operational rules are essential for multiple aspects of professional water manag
 - **Realistic operational modeling** requires understanding both technical constraints and management objectives
 - **Rule validation through scenario analysis** helps ensure robust performance under varying conditions
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of reservoir operational rules:

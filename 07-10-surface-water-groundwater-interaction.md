@@ -31,6 +31,9 @@ Through the first three lessons of this unit, we've developed understanding of g
 
 This lesson provides the essential skills to model these critical interactions, enabling integrated water management approaches that account for the full complexity of natural hydrologic systems.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### The Hydrologic Continuum: Conceptual Framework
@@ -437,6 +440,12 @@ Surface water-groundwater interaction modeling supports critical professional ap
 - **Stream depletion** from groundwater pumping represents a critical impact requiring quantitative assessment for sustainable development
 - **Integrated modeling** approaches are essential for accurate water budget analysis and effective resource management
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of surface water-groundwater interaction:

@@ -38,6 +38,9 @@ This final lesson of Unit 7 serves as the **comprehensive synthesis** of all gro
 
 This lesson demonstrates how the technical skills developed in previous lessons combine to analyze these sophisticated water management systems that are increasingly critical for sustainable water supply.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Managed Aquifer Recharge: Fundamentals and Applications
@@ -407,6 +410,12 @@ This final lesson demonstrates how the progressive concepts developed throughout
 
 Students completing Unit 7 now possess comprehensive groundwater modeling skills applicable to the full spectrum of modern water resource challenges.
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of managed aquifer recharge systems:

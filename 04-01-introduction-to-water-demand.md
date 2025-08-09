@@ -16,6 +16,9 @@ A model that only simulates natural water flows is fundamentally a hydrology mod
 
 Understanding water demand is the essential first step in building models that can answer real-world questions about water allocation, shortage risk, and system reliability.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Defining Water Demand
@@ -136,6 +139,12 @@ Using your local knowledge, sketch or describe:
 - **Demand is dynamic**: Economic, technological, and policy factors continuously reshape water demand patterns
 - **Regional variations**: Local climate, economy, and demographics create unique demand signatures for each water system
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of water demand fundamentals:

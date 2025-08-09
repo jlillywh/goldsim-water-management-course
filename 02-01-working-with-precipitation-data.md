@@ -129,3 +129,18 @@ Convert quantities to rates by dividing each monthly depth value by the time in 
 - **Monthly Precip TS.gsm** - Example model file
 - Various image assets for Time Series properties and rate calculations
 
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

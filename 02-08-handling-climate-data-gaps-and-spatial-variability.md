@@ -158,3 +158,18 @@ Different shifts for different seasons to account for:
 - **Gap_Filling_Example.gsm** - GoldSim model demonstrating gap-filling methods
 - **Spatial_Interpolation.gsm** - Model showing spatial climate distribution
 - Various images showing spatial interpolation maps and gap-filling examples
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

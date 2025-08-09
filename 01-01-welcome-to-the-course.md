@@ -1,4 +1,3 @@
-
 # Lesson 1: Welcome to the Course
 
 

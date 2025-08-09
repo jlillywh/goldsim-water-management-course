@@ -208,3 +208,18 @@ Crop coefficients change throughout the growing season, typically following a ch
 ### Supporting Data Files
 - **ETo_Daily_Data.xlsx** - Reference evapotranspiration time series for crop coefficient exercise
 - **Seasonal_Kc_lookup_template.xlsx** - Template for creating crop coefficient lookup tables
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

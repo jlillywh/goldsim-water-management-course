@@ -29,6 +29,9 @@ This lesson establishes the foundation for all subsequent groundwater modelingâ€
 - **Well field optimization** for water supply development  
 - **Surface water-groundwater interaction** for integrated water management
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### The Aquifer Element Architecture
@@ -357,6 +360,12 @@ Aquifer element modeling supports multiple professional applications:
 - **Sensitivity analysis** identifies critical parameters and assesses model uncertainty
 - **Simple models provide fundamental insights** that scale up to complex real-world applications
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of GoldSim aquifer modeling fundamentals:

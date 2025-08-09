@@ -1,4 +1,3 @@
-
 # Lesson 4: Overview of a Water Management System Model
 
 ## Learning Objectives
@@ -189,6 +188,11 @@ GoldSim can call external routines written in programming languages (e.g., C++, 
 GoldSim can seamlessly read from and write to Excel spreadsheets, leveraging Excel's capabilities for data processing, reporting, or even running specialized macros.
 
 
+## Exercise / Activities
+
+**Analysis Question:**
+Why is it important to include both model drivers and managed water system components in a water management model? Give one example of each from the lesson.
+
 ## Key Takeaways / Summary
 
 - Water management models share common conceptual components despite being site-specific, providing a foundation for systematic model development
@@ -198,18 +202,6 @@ GoldSim can seamlessly read from and write to Excel spreadsheets, leveraging Exc
 - Model presentation and validation are essential components that ensure model results are communicated effectively and technically sound
 - External functions enable GoldSim to integrate with specialized tools and programming languages for enhanced computational capabilities
 
-
-## Assets Needed
-
-### Reference Images
-- `images/01_03_FlowControl.png` - Flow control components diagram
-- `images/01_03_TailingsConcept.png` - Conceptual diagram of tailings storage facility
-
-
-## Exercise / Activities
-
-**Analysis Question:**
-Why is it important to include both model drivers and managed water system components in a water management model? Give one example of each from the lesson.
 
 ## Quiz
 
@@ -248,3 +240,10 @@ C) Model Validation
 D) External Functions
 
 **Answer:** C) Model Validation
+## Assets Needed
+
+### Reference Images
+- `images/01_03_FlowControl.png` - Flow control components diagram
+- `images/01_03_TailingsConcept.png` - Conceptual diagram of tailings storage facility
+
+

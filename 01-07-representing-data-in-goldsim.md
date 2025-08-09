@@ -77,3 +77,18 @@ To model evaporation from a pond, you need to calculate the pond's surface area 
 **D)** A Data element
 
 **Correct Answer:** B) A Lookup Table element
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

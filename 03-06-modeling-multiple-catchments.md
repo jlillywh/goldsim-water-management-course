@@ -494,3 +494,18 @@ Storage(t+1) = Storage(t) + Inflow(t) - Outflow(t)
 - **Multi_Station_Flow_Data.xlsx** - Observed streamflow data for multiple gauging stations
 - **Spatial_Climate_Data.xlsx** - Precipitation and temperature data with spatial variability
 - **Network_Calibration_Tools.gsm** - Advanced model with calibration utilities and performance metrics
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

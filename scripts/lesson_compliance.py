@@ -91,11 +91,27 @@ def rewrite_lesson(sections: Dict[str, List[str]], required_sections: List[str],
     return new_lines
 
 
+
 def process_lesson_file(path: str, required_sections: List[str]) -> bool:
     with open(path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
-    sections = parse_sections(lines)
-    new_lines = rewrite_lesson(sections, required_sections, lines)
+
+    # Standardize 'Objective' heading to 'Learning Objectives'
+    updated_lines = []
+    changed_heading = False
+    for line in lines:
+        # Replace '## Objective' or 'Objective:' (with or without ##) with '## Learning Objectives'
+        if re.match(r'^##?\s*Objective:?$', line.strip(), re.IGNORECASE):
+            updated_lines.append('## Learning Objectives\n')
+            changed_heading = True
+        else:
+            updated_lines.append(line)
+
+    if changed_heading:
+        logging.info(f"Standardized 'Learning Objectives' heading in: {path}")
+
+    sections = parse_sections(updated_lines)
+    new_lines = rewrite_lesson(sections, required_sections, updated_lines)
     if new_lines != lines:
         with open(path, 'w', encoding='utf-8') as f:
             f.writelines(new_lines)

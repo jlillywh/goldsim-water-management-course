@@ -23,6 +23,9 @@ Groundwater is not separate from surface water—they form a **single, interconn
 
 This lesson establishes the foundational concepts needed to incorporate groundwater into your water management models. Understanding these principles is essential for realistic simulation of water systems where surface and groundwater interact dynamically.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### The Subsurface Environment: Key Components and Structure
@@ -273,6 +276,12 @@ Understanding groundwater concepts is essential for multiple aspects of professi
 - **Confined and unconfined aquifers** behave differently in terms of storage, recharge, and response to pumping
 - **Flow systems operate at multiple scales** from local to regional, creating complex three-dimensional flow patterns
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of fundamental groundwater concepts:

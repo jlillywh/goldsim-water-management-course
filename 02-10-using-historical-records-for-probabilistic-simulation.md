@@ -203,3 +203,18 @@ Sample simultaneously from multiple correlated streamflow stations to preserve s
 - **Bootstrap_Example.gsm** - Example model demonstrating bootstrap setup
 - **Risk_Analysis_Template.gsm** - Template for reservoir risk analysis
 - Various screenshots showing Time Series bootstrap configuration options
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

@@ -1,4 +1,3 @@
-
 # Lesson 2: Course Resources and Setup
 
 ## Learning Objectives

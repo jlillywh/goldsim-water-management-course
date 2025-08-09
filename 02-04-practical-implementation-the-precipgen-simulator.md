@@ -355,3 +355,18 @@ For users working with multiple climate stations:
 - **Parameter_Validation_Template.xlsx** - Spreadsheet template for comparing synthetic vs. historical statistics
 - **Hybrid_Climate_Example.gsm** - Advanced example showing Target_T manipulation for climate trends
 - Various screenshots showing parameter table outputs, validation plots, and model configuration options
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

@@ -437,3 +437,18 @@ This integrated approach provides both runoff components from a single, physical
 - **Runoff_Climate_Data.xlsx** - Daily precipitation and temperature data for exercises
 - **SCS_CN_Parameters.xlsx** - Lookup tables for curve numbers by soil type and land use
 - **Soil_Properties_Database.xlsx** - Soil storage parameters for different soil types
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

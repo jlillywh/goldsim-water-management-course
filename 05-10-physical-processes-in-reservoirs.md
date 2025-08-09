@@ -27,6 +27,9 @@ Understanding and accurately modeling these processes is essential because:
 
 This lesson completes your reservoir modeling toolkit by addressing the most significant physical processes affecting water balance. Combined with the operational and institutional concepts from previous lessons, you'll have comprehensive skills for professional reservoir analysis.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Data-Driven Evaporation: The Pan Evaporation Method
@@ -298,6 +301,12 @@ Physical process modeling is essential for multiple aspects of professional wate
 - **Process interactions require integrated modeling** to capture realistic system behavior
 - **Physical process accuracy affects long-term planning** and operational decision-making, particularly under changing climate conditions
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of physical processes in reservoir modeling:

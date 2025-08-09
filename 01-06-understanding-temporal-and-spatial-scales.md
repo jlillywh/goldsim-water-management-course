@@ -145,3 +145,18 @@ You are developing a GoldSim model to assess the long-term water supply reliabil
 **D)** Sub-hourly time step with a network-based representation of individual household pipes.
 
 **Correct Answer:** C) Monthly or annual time step with a lumped catchment spatial representation for major sub-basins.
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

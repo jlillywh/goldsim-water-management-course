@@ -426,3 +426,18 @@ While this lesson focuses on manual calibration to build intuition, GoldSim also
 - **Observed_Streamflow_Data.xlsx** - Historical streamflow records for calibration and validation
 - **AWBM_Parameter_Guidelines.xlsx** - Parameter ranges and calibration guidance for different regions
 - **Climate_Change_Scenarios.xlsx** - Modified climate data for impact assessment exercises
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

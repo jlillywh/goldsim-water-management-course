@@ -231,3 +231,18 @@ You don't need a deep background in flood modeling, just an understanding of how
 - **IDF_Curves_Example.xlsx** - Local intensity-duration-frequency data for return period determination
 - **SCS_Storm_Types_Reference.pdf** - Guide to selecting appropriate SCS storm type by region
 - **Sample_Unit_Hydrographs.xlsx** - Example unit hydrograph ordinates for different watershed types
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

@@ -21,6 +21,9 @@ Understanding reservoir modeling is fundamental to water management because:
 
 This lesson establishes the foundational principles that every subsequent reservoir modeling technique will build upon. Master these basics, and complex operational rules, multi-reservoir systems, and specialized applications become logical extensions.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### The Reservoir as a Dynamic Integrator
@@ -197,6 +200,12 @@ Understanding basic reservoir behavior is essential for multiple aspects of wate
 - **Simple models reveal fundamental behavior** that remains relevant in complex operational systems
 - **Scenario analysis** using basic models helps identify critical system vulnerabilities and improvement opportunities
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of fundamental reservoir modeling concepts:

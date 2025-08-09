@@ -168,3 +168,18 @@ Following a systematic workflow and adhering to best practices will help you bui
 The goal is to create models that not only answer your immediate questions but also serve as valuable tools for ongoing water management decisions. By starting with clear concepts, maintaining organization, and following proven practices, you'll build models that stand the test of time and provide value to your organization.
 
 This concludes Unit 1: Foundations and Data Preparation. You now have the fundamental knowledge needed to begin building effective water management models in GoldSim. The subsequent units will build upon these foundations to explore specific modeling techniques and advanced applications.
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*

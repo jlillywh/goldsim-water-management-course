@@ -35,6 +35,9 @@ Understanding well impacts is essential for:
 
 This lesson provides the fundamental skills needed to model these critical human-groundwater interactions in integrated water management systems.
 
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
 ## Technical Content
 
 ### Well Representation in Aquifer Models
@@ -378,6 +381,12 @@ Well modeling supports numerous professional water management applications:
 - **Steady-state analysis** provides long-term equilibrium conditions for sustainability assessment
 - **Multi-cell aquifer models** enable spatial analysis of pumping impacts and optimization of well field design
 
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
 ## Quiz
 
 Test your understanding of well modeling and pumping analysis:

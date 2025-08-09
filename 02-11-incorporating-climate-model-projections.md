@@ -637,3 +637,18 @@ Future lessons will build on these techniques to explore optimization under clim
 - Regional climate downscaling methodologies and applications
 - Climate change impact assessment guidelines for water resources
 - Uncertainty quantification in climate projections and impacts
+## Learning Objectives
+
+*This section is required by the specification but was missing. Please update.*
+## Context / Overview
+
+*This section is required by the specification but was missing. Please update.*
+## Technical Content
+
+*This section is required by the specification but was missing. Please update.*
+## Exercise / Activities
+
+*This section is required by the specification but was missing. Please update.*
+## Key Takeaways / Summary
+
+*This section is required by the specification but was missing. Please update.*
