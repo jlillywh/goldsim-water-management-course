@@ -1,0 +1,63 @@
+================================================================ 
+EXECUTION LOG - Sat 08/09/2025  6:46:41.57 
+Command: python scripts\generate_course_outline.py 
+================================================================ 
+*******************************************
+* GoldSim Water Management Course Outline *
+*******************************************
+
+Unit 1: Foundations and Data Preparation
+----------------------------------------
+    01-01: Welcome To The Course
+    01-02: Course Resources And Setup
+    01-03: What Makes Water Management Modeling Unique
+    01-04: Overview Of A Water Management System Model
+    01-05: Thinking In Goldsim Dynamic Simulation Primer
+    01-06: Understanding Temporal And Spatial Scales
+    01-07: Representing Data In Goldsim
+    01-08: Modeling Workflow And Best Practices
+
+Unit 2: Climate Data and Weather Modeling
+-----------------------------------------
+    02-01: Working With Precipitation Data
+    02-02: Stochastic Weather Generation
+    02-04: Practical Implementation The Precipgen Simulator
+    02-06: Design Storms
+    02-07: Working With Temperature Data
+    02-08: Handling Climate Data Gaps And Spatial Variability
+    02-09: Advanced Climate Analysis Drought Indices
+    02-10: Using Historical Records For Probabilistic Simulation
+    02-11: Incorporating Climate Model Projections
+
+Unit 3: Hydrology and Water Balance
+-----------------------------------
+    03-01: Evaporation And Evapotranspiration
+    03-02: Temperature Based Et Methods
+    03-03: Snow Accumulation And Melt
+    03-04: Runoff Estimation Methods
+    03-05: Case Study The Australian Water Balance Model
+    03-06: Modeling Multiple Catchments
+
+Unit 4: Water Demand and Consumption
+------------------------------------
+    04-01: Introduction To Water Demand
+
+Unit 5: Reservoir Modeling and Operations
+-----------------------------------------
+    05-01: Introduction To Reservoir Modeling
+    05-03: Simulating Operational Rules
+    05-09: Advanced Shared Storage Allocation
+    05-10: Physical Processes In Reservoirs
+
+Unit 7: Groundwater Systems
+---------------------------
+    07-01: Introduction To Groundwater Concepts
+    07-03: Simulating Flow With The Aquifer Element
+    07-09: Modeling Wells And Pumping
+    07-10: Surface Water Groundwater Interaction
+    07-11: Managed Aquifer Recharge Case Study
+
+ 
+Exit Code: 0 
+End Time: Sat 08/09/2025  6:46:41.79 
+ 
