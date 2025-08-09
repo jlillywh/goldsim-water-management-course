@@ -50,6 +50,31 @@ When a specific instruction is not provided, these principles should guide your 
 * **Encountering Errors:** If you run a script and it produces an error, your first step is to analyze the error output. If the fix is obvious (e.g., a typo in a filename you were given), correct it and try again.
 * **Asking for Clarification:** If a prompt is ambiguous or conflicts with a core project rule (e.g., you are asked to name a file in a way that violates the `UU-LL` convention), you must stop and ask for clarification. State the conflict clearly. For example: *"The requested filename 'Introduction.md' violates the 'UU-LL-lesson-title.md' convention. Please provide the Unit and Lesson number."*
 
+### **5. Git Workflow Standards**
+
+#### **Commit Message Formatting Requirements**
+
+**CRITICAL: Multi-line commit messages must use separate -m flags for Windows terminal compatibility.**
+
+* **Prohibited:** Using multi-line strings within a single `-m` flag (causes execution failures in Windows cmd)
+* **Required:** Use separate `-m` flags for the subject line and each subsequent paragraph
+
+#### **Correct Commit Message Syntax**
+
+```bash
+git commit -m "Subject line (50 characters or less)" -m "First paragraph of detailed explanation explaining what changes were made and why." -m "Second paragraph if needed for additional context, breaking changes, or testing notes."
+```
+
+#### **Example Implementation**
+```bash
+git commit -m "Refactor: Centralize Python scripts and enhance safety" -m "FEATURES ADDED: Move all Python scripts to dedicated scripts/ directory, update all batch files with new paths, implement comprehensive logging." -m "VALIDATION: All automation workflows tested and confirmed operational. Safety protocols maintained throughout refactoring process."
+```
+
+#### **Formatting Rules**
+* **Subject Line:** Maximum 50 characters, imperative mood, no period
+* **Body Paragraphs:** Each paragraph in its own `-m` flag, maximum 72 characters per line
+* **Windows Compatibility:** Never use multi-line strings with line breaks in commit messages
+
 ---
 
 ### **Why These Protocols Are Important**
