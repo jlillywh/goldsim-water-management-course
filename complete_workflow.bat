@@ -26,7 +26,7 @@ if /i not "%continue%"=="y" (
 echo.
 echo Step 1: Checking current course structure...
 echo --------------------------------------------------
-python generate_course_outline.py
+python scripts\generate_course_outline.py
 echo.
 
 :renumber_choice
@@ -42,7 +42,7 @@ if /i "%need_renumber%"=="y" (
     echo.
     echo Preview of renumbering changes:
     echo --------------------------------
-    python renumber_lessons.py !insertion_point! --dry-run
+    python scripts\renumber_lessons.py !insertion_point! --dry-run
     echo.
     
     set /p confirm_renumber="Proceed with renumbering? (y/N): "
@@ -50,7 +50,7 @@ if /i "%need_renumber%"=="y" (
     if /i "!confirm_renumber!"=="y" (
         echo.
         echo Executing renumbering...
-        python renumber_lessons.py !insertion_point!
+        python scripts\renumber_lessons.py !insertion_point!
         
         if errorlevel 1 (
             echo ERROR: Renumbering failed. Check the output above.
@@ -71,7 +71,7 @@ echo --------------------------------------------------
 echo Updating README.md with current course structure...
 echo.
 
-python generate_course_outline.py --update-readme
+python scripts\generate_course_outline.py --update-readme
 
 if errorlevel 1 (
     echo ERROR: README update failed. Check the output above.

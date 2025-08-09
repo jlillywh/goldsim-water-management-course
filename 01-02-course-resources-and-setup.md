@@ -9,18 +9,15 @@ This is a hands-on course using numerous example GoldSim models (.gsm files) and
 
 Download Link: [Link to the course zip file]
 
-Instructions: Download the zip file and unzip it to a convenient location on your computer, such as your Desktop.
+Instructions: Download the zip file and unzip it to a convenient location on your computer.
 
 What's Inside the Course Folder
 When you unzip the file, it will create a root folder named Water Management Course. Inside, you will find a structured set of resources organized by unit and lesson. The primary file types you will interact with are:
 
-.gsm (GoldSim Model files): These are the main working models for exercises.
-
-.gsp (GoldSim Player files): These allow you to view and run completed models without a full GoldSim license.
-
-.xlsx, .csv (Data files): Supporting data, such as time series or parameters, used by the models.
-
-The folder structure is organized logically as follows:
+- .gsm (GoldSim Model files): These are the main working models for exercises.
+- .gsp (GoldSim Player files): These allow you to view and run completed models without a full GoldSim license.
+- .xlsx, .csv (Data files): Supporting data, such as time series or parameters, used by the models.
+- The folder structure is organized logically as follows:
 
 The folder structure is organized logically as follows:
 
@@ -52,7 +49,7 @@ Water Management Course/
 
 **Requirement:** The model files used in this course require the **latest version** of GoldSim.
 
-You can find the latest version [here].
+You can find the latest version [here](https://www.goldsim.com/Web/Customers/Downloads/GoldSim/Latest/).
 
 **Compatibility:** Please note that you will **not** be able to open the course examples and exercises in older versions of GoldSim.
 
@@ -64,7 +61,7 @@ Now that you have the course files, let's review the types of examples used and 
 This course emphasizes learning by doing. You are strongly encouraged to open the example models, read any accompanying documentation (often within the model itself or linked in the lesson), and actively experiment with them.
 
 ### Source of Examples
-Many models used in this course are derived from examples found in the extensive **GoldSim Help Center** and **Model Library**. These resources contain models that are often more complex and application-focused than the basic examples included with the standard GoldSim installation.
+Many models used in this course are derived from examples found in the extensive [GoldSim Model Library](https://www.goldsim.com/Web/Customers/Education/Library/). These resources contain models that are often more complex and application-focused than the basic examples included with the standard GoldSim installation.
 
 ### Focus of Course Examples
 Water management modeling is vast. This course doesn't aim to cover every possible application. Instead, we focus on demonstrating:
@@ -76,26 +73,27 @@ We specifically tackle problems that benefit from GoldSim's dynamic, probabilist
 
 ## Navigating the GoldSim Help Center
 
-The GoldSim Help Center is a valuable resource you should familiarize yourself with. Key sections relevant to this course include:
+The GoldSim Help Center is a valuable resource you should familiarize yourself with. Sections relevant to this course include:
 
 ### Library of Software Features
-Articles and examples illustrating specific GoldSim functions.
+Articles and examples illustrating specific GoldSim functions and elements. This comprehensive library provides detailed explanations and working examples for GoldSim's core modeling capabilities.
+
+[Access the Features Library](https://support.goldsim.com/hc/en-us/categories/202696198-Model-Library-Features)
 
 ### Library of Applications
-Examples showing how GoldSim is used for specific applications. Sections heavily used in this course include:
+Examples showing how GoldSim is used for specific applications across various industries and domains. This library contains real-world modeling examples that demonstrate practical implementations of GoldSim for different use cases.
+
+[Access the Applications Library](https://support.goldsim.com/hc/en-us/categories/115000592267-Model-Library-Applications)
+
+Sections heavily used in this course include:
 - Hydrology
 - Water Management  
 - Hydraulics
 
 ### Webinar Archive
 Recordings and models from past webinars covering various topics.
-- [Link to Archive]
-- [Link to Upcoming Webinars]
-
-### Modeling Tips
-Useful articles and pointers for building better GoldSim models.
-
-Take some time to explore these resources as needed throughout the course.
+- [Link to Archive](https://support.goldsim.com/hc/en-us/categories/202545617-Webinar-Archive)
+- [Link to Upcoming Webinars](https://www.goldsim.com/Web/Customers/Education/Webinars/)
 
 ## What to Expect in Each Lesson (Typical Structure)
 

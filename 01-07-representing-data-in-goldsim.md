@@ -1,4 +1,4 @@
-# Lesson 6: Representing Data in GoldSim
+# Lesson 7: Representing Data in GoldSim
 
 **Objective:** Learn how to use GoldSim's core data elements to represent the three most common types of data used in water management models: time series, functional relationships, and scalar parameters.
 

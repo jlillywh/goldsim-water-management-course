@@ -15,15 +15,15 @@ echo.
 if "%1"=="--dry-run" (
     echo Running in DRY RUN mode...
     echo.
-    python sort-images-flat.py --dry-run
+    python scripts\sort-images-flat.py --dry-run
 ) else if "%1"=="-d" (
     echo Running in DRY RUN mode...
     echo.
-    python sort-images-flat.py --dry-run
+    python scripts\sort-images-flat.py --dry-run
 ) else (
     echo Moving UULL images to global images folder...
     echo.
-    python sort-images-flat.py
+    python scripts\sort-images-flat.py
 )
 
 echo.

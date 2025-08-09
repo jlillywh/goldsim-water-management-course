@@ -1,10 +1,19 @@
-# Lesson 3: Overview of a Water Management System Model
+# Lesson 4: Overview of a Water Management System Model
 
-**Objective:** By the end of this lesson, learners will be able to identify the key components and functions that typically constitute a dynamic water management model.
+## Learning Objectivesz
+
+By the end of this lesson, students will be able to:
+
+- **Identify** the six major components that constitute a typical water management system model
+- **Analyze** the relationships between model drivers and managed water system components
+- **Evaluate** the role of different analytical capabilities in GoldSim water management models
+- **Apply** the conceptual framework to design the structure of a water management model
+
+## Context / Overview
 
 Every water management challenge is unique, and consequently, so is every water management model. However, despite their site-specific nature, most dynamic water management models share a common set of conceptual components and interconnected functions.
 
-Understanding these fundamental building blocks helps you begin constructing models in GoldSim. In this lesson, we will explore the typical structure and components of a water management system model.
+Understanding these fundamental building blocks is essential for water resource professionals using GoldSim to solve complex water management problems. This lesson provides a comprehensive framework that will guide you through the typical architecture of water management system models, establishing the foundation for all subsequent technical lessons in this course.
 
 ## Understanding the System Model Diagram
 
@@ -61,7 +70,7 @@ The diagram below illustrates the common components that make up most real-world
      |
      +--- [ 6. External Functions ]
             |
-            +--- DLLs (Dynamic Link Libraries)
+            +--- `DLLs` (Dynamic Link Libraries)
             +--- Excel with Macros
 ```
 
@@ -129,9 +138,9 @@ Finding the best set of operational rules or design parameters to achieve specif
 ### Sensitivity Analysis
 Identifying which input parameters have the most significant influence on the model's outputs, helping to focus data collection efforts and understand key drivers of uncertainty.
 
-It's also worth noting that you can build custom analytical functions within GoldSim. You can **import other models** (e.g., as SubModels) into your GoldSim model to act as an independent analytical component, such as pre-processing time series data.
+It's also worth noting that you can build custom analytical functions within GoldSim. You can **import other models** (e.g., as `SubModels`) into your GoldSim model to act as an independent analytical component, such as pre-processing time series data.
 
-While GoldSim allows you to build sophisticated data analysis functions directly, sometimes it is faster or more efficient to write specialized analysis in code and compile that to a Dynamic Link Library (DLL) which can then interact seamlessly with your GoldSim model.
+While GoldSim allows you to build sophisticated data analysis functions directly, sometimes it is faster or more efficient to write specialized analysis in code and compile that to a Dynamic Link Library (`DLL`) which can then interact seamlessly with your GoldSim model.
 
 ## Model Presentation
 
@@ -167,21 +176,30 @@ Adjusting model parameters to improve the agreement between model predictions an
 
 GoldSim is designed to be highly interoperable, allowing it to connect with other tools and programming languages.
 
-### DLLs (Dynamic Link Libraries)
-GoldSim can call external routines written in programming languages (e.g., C++, Fortran) encapsulated in DLLs, allowing for highly customized or computationally intensive calculations.
+### `DLLs` (Dynamic Link Libraries)
+GoldSim can call external routines written in programming languages (e.g., C++, Fortran) encapsulated in `DLLs`, allowing for highly customized or computationally intensive calculations.
 
 ### Excel with Macros
 GoldSim can seamlessly read from and write to Excel spreadsheets, leveraging Excel's capabilities for data processing, reporting, or even running specialized macros.
 
-## Conclusion
+## Key Takeaways
 
-While every water management model is tailored to a specific problem, the diagram presented in this lesson provides a powerful conceptual framework for understanding the common types of components and analytical capabilities you'll encounter and build using GoldSim.
+- **Water management models share common conceptual components** despite being site-specific, providing a foundation for systematic model development
+- **Model drivers** (climate, hydrology, demands, and policies) represent the external forces that influence system behavior
+- **Managed water systems** contain flow controls, storage components, contaminant transport, and economic elements that respond to model drivers
+- **GoldSim's analytical capabilities** include Monte Carlo simulation, scenario analysis, optimization, and sensitivity analysis for comprehensive system evaluation
+- **Model presentation and validation** are essential components that ensure model results are communicated effectively and technically sound
+- **External functions** enable GoldSim to integrate with specialized tools and programming languages for enhanced computational capabilities
 
-As you progress through this course, you will learn how to represent each of these components in GoldSim, integrating them into a coherent system model to answer complex water management questions.
+## Assets Needed
+
+### Reference Images
+- `images/01_03_FlowControl.png` - Flow control components diagram
+- `images/01_03_TailingsConcept.png` - Conceptual diagram of tailings storage facility
 
 ---
 
-## Exercises
+## Quiz
 
 Here are some questions to test your understanding of main components of a water management system model. Keep in mind that while this lesson focuses on the typical structure of models you'd build in GoldSim, various types of water management models can also be built using other specialized tools.
 
@@ -201,7 +219,7 @@ The "Managed Water System" section of a GoldSim model diagram represents the cor
 **A)** Monte Carlo Simulation and Sensitivity Analysis  
 **B)** Surface Water, Tailings, and Groundwater storage  
 **C)** Hydraulic structures, Rule-based operations, and Feedback mechanisms  
-**D)** External DLLs and Excel macros
+**D)** External `DLLs` and Excel macros
 
 **Correct Answer:** C) Hydraulic structures, Rule-based operations, and Feedback mechanisms
 

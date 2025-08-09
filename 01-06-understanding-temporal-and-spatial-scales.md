@@ -1,4 +1,4 @@
-# Lesson 5: Understanding Temporal and Spatial Scales in Water Modeling
+# Lesson 6: Understanding Temporal and Spatial Scales in Water Modeling
 
 **Objective:** Recognize the importance of temporal and spatial scales in model design and how GoldSim handles them.
 

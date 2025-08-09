@@ -97,7 +97,7 @@ if %errorlevel%==0 (
 REM Run the Python script with all arguments
 echo Executing renumbering script...
 echo.
-python renumber_lessons.py %insertion_point% %additional_args%
+python scripts\renumber_lessons.py %insertion_point% %additional_args%
 
 REM Check the exit code
 if %errorlevel%==0 (

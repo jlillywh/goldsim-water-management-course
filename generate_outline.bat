@@ -19,26 +19,26 @@ if "%choice%"=="1" (
     echo.
     echo Generating course outline...
     echo.
-    python generate_course_outline.py
+    python scripts\generate_course_outline.py
 ) else if "%choice%"=="2" (
     echo.
     echo Updating README.md with current course outline...
     echo.
-    python generate_course_outline.py --update-readme
+    python scripts\generate_course_outline.py --update-readme
 ) else if "%choice%"=="3" (
     echo.
     echo Updating README.md and saving outline to file...
     echo.
-    python generate_course_outline.py --update-readme --save-outline
+    python scripts\generate_course_outline.py --update-readme --save-outline
 ) else if "%choice%"=="4" (
     echo.
     echo Saving outline to course_outline.txt...
     echo.
-    python generate_course_outline.py --save-outline
+    python scripts\generate_course_outline.py --save-outline
 ) else (
     echo Invalid choice. Running default (print to console)...
     echo.
-    python generate_course_outline.py
+    python scripts\generate_course_outline.py
 )
 
 echo.

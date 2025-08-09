@@ -25,6 +25,7 @@ MANIFEST
 
 # Backup directories (course-specific)
 backup_*/
+batch_backup/
 
 # Temporary files and directories
 temp/

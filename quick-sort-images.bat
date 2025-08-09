@@ -30,17 +30,17 @@ if "%1"=="--dry-run" (
     echo Running in DRY RUN mode...
     echo Files that don't match UULL naming will be ignored.
     echo.
-    python sort_images.py --source "%SNAGIT_DIR%" --dry-run
+    python scripts\sort_images.py --source "%SNAGIT_DIR%" --dry-run
 ) else if "%1"=="-d" (
     echo Running in DRY RUN mode...
     echo Files that don't match UULL naming will be ignored.
     echo.
-    python sort_images.py --source "%SNAGIT_DIR%" --dry-run
+    python scripts\sort_images.py --source "%SNAGIT_DIR%" --dry-run
 ) else (
     echo Moving UULL-named images to lesson folders...
     echo Non-matching files will be ignored and left in SnagIt folder.
     echo.
-    python sort_images.py --source "%SNAGIT_DIR%"
+    python scripts\sort_images.py --source "%SNAGIT_DIR%"
 )
 
 echo.

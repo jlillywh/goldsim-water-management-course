@@ -6,7 +6,7 @@ As water management is becoming increasingly complex, this course will equip you
 
 It's designed to enhance your understanding of GoldSim's capabilities and introduce you to a comprehensive library of functions, components, and methodologies tailored to meet your water management modeling needs.
 
-![GoldSim MonoLake Example](images/01_01_MonoLakeModel.png)
+<img src="images/01_01_MonoLakeModel.png" alt="GoldSim MonoLake Example" width="50%">
 
 ## Who Should Attend?
 

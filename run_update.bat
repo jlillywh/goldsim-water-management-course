@@ -1,7 +1,14 @@
 @echo off
 SETLOCAL
 
-REM --- Script to automatically renumber lessons and update the README ---
+REM --- Scrip} ELSE (
+    ECHO [Step 2 of 2] Updating README.md with the new course outline...
+)
+python scripts\generate_course_outline.py --update-readme
+IF ERRORLEVEL 1 (
+    ECHO [FATAL] README update script failed.
+    GOTO :EOF
+)omatically renumber lessons and update the README ---
 
 ECHO.
 ECHO ================================================
@@ -23,7 +30,7 @@ IF "%1"=="" (
 SET INSERTION_POINT=%1
 
 ECHO [Step 1 of 2] Renumbering lessons starting after %INSERTION_POINT%...
-python renumber_lessons.py %INSERTION_POINT% --force
+python scripts\renumber_lessons.py %INSERTION_POINT% --force
 IF ERRORLEVEL 1 (
     ECHO [FATAL] Renumbering script failed. Aborting.
     GOTO :EOF

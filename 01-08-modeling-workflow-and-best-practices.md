@@ -1,4 +1,4 @@
-# Lesson 7: Modeling Workflow and Best Practices for Water Systems
+# Lesson 8: Modeling Workflow and Best Practices for Water Systems
 
 **Objective:** Learn a systematic approach to building robust GoldSim water management models and introduce best practices for ensuring models are organized, clear, and scalable.
 
