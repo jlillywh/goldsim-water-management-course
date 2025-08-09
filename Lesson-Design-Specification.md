@@ -4,8 +4,6 @@
 **Date:** 2025-08-08  
 **Purpose:** This document provides the official template and style guide for all lessons created for the GoldSim Water Management Course. Its purpose is to ensure that all course content is consistent, high-quality, and pedagogically effective. All lessons must adhere to this specification.
 
----
-
 ## 1.0 Audience and Prerequisites
 
 ### 1.1 Target Audience Profile
@@ -34,8 +32,6 @@ Lessons should include brief prerequisite checks where appropriate:
 - Reference to specific GoldSim elements students should recognize
 - Quick review of essential concepts before building upon them
 - Clear statements when advanced mathematical or domain knowledge is required
-
----
 
 ## 2.0 Instructional Strategy
 
@@ -82,8 +78,6 @@ Each lesson systematically progresses through cognitive levels:
 - **Immediate Feedback:** Provide expected results and troubleshooting guidance
 - **Reflection Prompts:** Include analysis questions that promote deeper understanding
 - **Hands-On Application:** Balance conceptual explanation with practical implementation
-
----
 
 ## 3.0 Assessment and Evaluation Strategy
 
@@ -150,8 +144,6 @@ Each lesson assessment measures specific, observable competencies:
 - **Engagement Metrics:** Monitor completion rates and time-on-task to optimize difficulty
 - **Professional Relevance Updates:** Regular review to maintain alignment with industry evolution
 
----
-
 ## 4.0 Lesson Content Structure
 
 ## 4.0 Lesson Content Structure
@@ -172,8 +164,6 @@ Each lesson `.md` file must contain the following sections in this specific orde
 7. **Quiz:** A short, multiple-choice self-assessment with answers provided
 8. **Assets Needed:** A categorized list of all required files (`.gsm`, `.xlsx`, images, etc.)
 9. **Next Steps:** Brief transition to the following lesson when appropriate
-
----
 
 ## 5.0 Content & Style Guidelines
 
@@ -197,8 +187,6 @@ Each lesson `.md` file must contain the following sections in this specific orde
 - **Code/File References:** Use backticks for file names, element names, and parameters
 - **Emphasis:** Use **bold** for key concepts, *italics* for emphasis
 
----
-
 ## 6.0 Learning Objectives Standards
 
 ## 6.0 Learning Objectives Standards
@@ -220,8 +208,6 @@ By the end of this lesson, students will be able to:
 - **Evaluate** model sensitivity to key meteorological parameters
 - **Apply** ET calculations to water balance modeling scenarios
 ```
-
----
 
 ## 7.0 Technical Content Guidelines
 
@@ -257,8 +243,6 @@ The ET calculation requires the following elements:
 - **Lookup Table:** Crop coefficients by month
 ```
 
----
-
 ## 8.0 Exercise and Activities Standards
 
 ## 8.0 Exercise and Activities Standards
@@ -285,8 +269,6 @@ The ET calculation requires the following elements:
 2. Which meteorological parameter has the greatest influence on ET rates?
 3. What happens to ET calculations when wind speed data is missing?
 ```
-
----
 
 ## 9.0 Image and Asset Standards
 
@@ -324,8 +306,6 @@ When lessons require external files, document them clearly:
 - `03_02_PenmanMonteithEquation.png` - Equation visualization
 - `03_02_ETModelStructure.png` - GoldSim model structure diagram
 ```
-
----
 
 ## 10.0 Quiz Standards
 
@@ -366,8 +346,6 @@ When lessons require external files, document them clearly:
 **2. B)** Delta (Δ) represents the slope of the saturation vapor pressure curve with respect to temperature.
 ```
 
----
-
 ## 11.0 Quality Assurance Checklist
 
 ## 11.0 Quality Assurance Checklist
@@ -406,14 +384,10 @@ Before finalizing any lesson, verify:
 - [ ] Assessment methods match cognitive complexity
 - [ ] Feedback mechanisms support continuous learning
 
----
-
 ## 12.0 Revision History
 
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2025-08-08 | Initial specification document |
-
----
 
 **Note:** This specification document focuses exclusively on lesson content standards and style guidelines. For project-level architecture, file management workflows, and automation procedures, refer to `.github/copilot-instructions.md`.

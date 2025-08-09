@@ -1,199 +1,82 @@
+
 # Lesson 1: Welcome to the Course
 
-## Welcome to the Self-Paced Water Management Modeling Course using GoldSim!
 
-As water management is becoming increasingly complex, this course will equip you with the GoldSim tools and techniques needed to model and analyze even the most challenging water systems.
+## Learning Objectives
 
-It's designed to enhance your understanding of GoldSim's capabilities and introduce you to a comprehensive library of functions, components, and methodologies tailored to meet your water management modeling needs.
+By the end of this lesson, students will be able to:
+- **Describe** the structure and goals of the GoldSim Water Management Course
+- **Identify** the prerequisites and target audience for the course
+- **Explain** the value of dynamic simulation for water management
+- **Outline** the key topics and learning approach used in the course
 
-<img src="images/01_01_MonoLakeModel.png" alt="GoldSim MonoLake Example" width="50%">
 
-## Who Should Attend?
+## Context / Overview
 
-This course is perfect for individuals who have a foundational understanding of GoldSim and want to use a dynamic simulation tool to model complex water systems, often integrating multiple disciplines.
+Water management challenges are increasingly complex, requiring robust tools and methods to support sound engineering decisions. This course introduces you to GoldSim—a leading dynamic simulation platform—by guiding you through the essential concepts, workflows, and best practices for modeling real-world water systems. Whether you are a consultant, engineer, or researcher, this course will help you build the skills needed to analyze, design, and optimize water management solutions using GoldSim.
 
-If you're working with uncertain inputs, intricate flow controls, multiple storage components, and time-varying demands, this course is designed for you.
 
-**Typical attendees include:**
-- Environmental engineers
-- Water resource planners  
-- Consultants working on water-related projects
-- Academics and researchers
+## Technical Content
 
-While tailored for water resources, please note that GoldSim itself is a versatile dynamic simulation tool applicable across many industries for systems modeling, risk analysis, and decision support.
+### Course Structure and Approach
+The GoldSim Water Management Course is organized into 12 progressive units, each building on the last. You will start with foundational concepts and data preparation, then advance through climate modeling, surface and groundwater hydrology, demand analysis, reservoir operations, and risk assessment. Each unit features hands-on lessons, practical exercises, and real-world examples.
 
-## Prerequisites
+### Who Should Take This Course?
+This course is designed for:
+- Water resource engineers, environmental consultants, and mining engineers with prior GoldSim experience
+- Graduate students and professionals seeking to model complex, integrated water systems
+- Regulatory professionals and planners evaluating water system models
 
-To ensure you're fully prepared for the advanced topics covered, we highly recommend that you either:
+**Prerequisites:**
+- Minimum 40 hours of GoldSim modeling or completion of the Basic GoldSim Course
+- Familiarity with hydrological concepts and engineering mathematics
 
-- **Complete the free, online Basic GoldSim Course**, or
-- **Have a minimum of 40 hours of GoldSim modeling experience**
+### Why Use GoldSim for Water Management?
+- **Dynamic Simulation:** Visualize how water systems evolve over time
+- **Uncertainty Analysis:** Quantify and manage variability in climate, demand, and system parameters
+- **Data Integration:** Connect with Excel, databases, and other data sources
+- **Visual Modeling:** Build and communicate models using an intuitive, graphical interface
 
-Meeting these prerequisites will help you gain the most from this challenging yet rewarding learning experience.
+### Learning Approach
+The course emphasizes hands-on, problem-centered learning. You will build models step-by-step, apply best practices, and analyze real-world scenarios. Each lesson includes practical exercises and opportunities for self-assessment.
 
-## What Will You Gain?
 
-Upon completion of this course, you'll be able to:
+## Exercise / Activities
 
-- **Build dynamic system models** for water management
-- **Analyze uncertainty, storage, and flow systems**
-- **Support decision-making** in real-world water projects
+### Exercise: Course Orientation
+1. **Review** the course outline and unit descriptions provided above.
+2. **Verify** you meet the prerequisites (GoldSim experience, hydrology background, software access).
+3. **Reflect:** Why is dynamic simulation important for your work or studies? Write a brief statement (2-3 sentences).
+4. **Explore** the GoldSim interface: Open GoldSim, create a new model, and locate the key elements (Containers, Data, Expression, Result).
+5. **Analysis Question:** What are two advantages of using GoldSim for water management modeling compared to spreadsheet-based approaches?
 
-**Example applications include:**
-- Mine Water Balance Studies
-- Water Resources Planning  
-- Water Supply Facility Planning
-- Environmental Compliance
-- Mine Closure Logistics
-- Integrated Water Resource Management
 
-You'll also see how GoldSim integrates with tools like MS Excel and databases.
+## Key Takeaways / Summary
 
-## Why Use GoldSim?
+- The course provides a structured, hands-on introduction to dynamic water management modeling with GoldSim
+- Targeted at professionals and advanced students with prior modeling experience
+- Emphasizes real-world application, uncertainty analysis, and best practices
+- Each lesson builds skills progressively, with practical exercises and self-assessment
 
-GoldSim excels where complex, dynamic systems are involved:
 
-**Intuitive Interface:** Build custom, flexible models visually without needing to write code.
+## Quiz
 
-**Data Integration:** Easily integrate data from multiple sources (Excel, databases).
+**1.** What is the primary advantage of using GoldSim for water management modeling?
 
-**Uncertainty Analysis:** Simulate complex systems under uncertainty using built-in probabilistic tools.
+A) It is free and open source  
+B) It allows dynamic simulation and uncertainty analysis  
+C) It is only for mining applications  
+D) It replaces all regulatory reporting
 
-**Dynamic Simulation:** Unlike static tools, GoldSim's dynamic approach is ideal for visualizing how water systems behave and evolve over time, helping you optimize decisions.
+**2.** Who is the intended audience for this course?
 
-## Course Structure
+A) Anyone with no prior modeling experience  
+B) Experienced engineers and professionals in water resources  
+C) Only undergraduate students  
+D) Software developers
 
-This course is organized into twelve comprehensive units, starting with this introduction. Each unit builds upon the previous one, gradually increasing in complexity.
+### Quiz Answers
 
-The course utilizes standard GoldSim features alongside pre-built, specialized components designed to model complex water resource processes effectively.
+1. B) It allows dynamic simulation and uncertainty analysis
+2. B) Experienced engineers and professionals in water resources
 
-### Part 1: The Building Blocks
-- **Unit 1: Foundations and Data Preparation** - Introduction to the course, objectives, and basic concepts
-- **Unit 2: Climate and Weather** - Working with precipitation and temperature data
-- **Unit 3: Surface Water Hydrology** - Techniques for modeling surface water flow
-- **Unit 4: Water Demand and Use** - Understanding water demand and usage
-
-### Part 2: Building the Managed System  
-- **Unit 5: Hydraulic Flow Controls** - Principles of hydraulic modeling
-- **Unit 6: Reservoir Operations** - Modeling reservoirs and their management
-- **Unit 7: Groundwater** - Modeling groundwater flow and interactions
-- **Unit 8: Building Flow Networks** - Creating and managing flow networks
-
-### Part 3: Advanced Topics & Applications
-- **Unit 9: Water Quality and Ecology** - Addressing water quality and ecological impacts
-- **Unit 10: Model Verification** - Techniques for model verification, calibration, and optimization
-- **Unit 11: Specialized Applications** - Specific topics including mining operations
-- **Unit 12: Risk and Reliability in Water Management** - Managing uncertainty and risk
-
-## Time Commitment
-
-- A typical unit may take **1 to 5 hours**, depending on your experience and the complexity of the material
-- Work at your own pace; the platform will save your progress
-- The course is self-paced, allowing you to learn at your own speed
-- A certificate of completion is available
-
-## Conclusion
-
-GoldSim is a powerful decision-support system for water management challenges. While you won't become an expert overnight, you'll gain the comfort and understanding needed to effectively design, build, and interpret these types of models.
-
-If you're ready to enhance your skills, let's move on to the next lesson to get you set up with the course resources!
-
----
-
-## Exercise
-
-This Water Management Modeling Course using GoldSim is primarily designed for individuals who are interested in which of the following applications or capabilities?
-
-**A)** Learning GoldSim from scratch with no prior experience.
-
-**B)** Performing only static, single-point-in-time calculations for simple water balances.
-
-**C)** Building dynamic system models for complex water management, analyzing uncertainty, and supporting decision-making in real-world projects.
-
-**D)** Troubleshooting software errors in GoldSim or developing custom GoldSim extensions.
-
----
-
-**Correct Answer:** C) Building dynamic system models for complex water management, analyzing uncertainty, and supporting decision-making in real-world projects.
-
----
-
-## Who Should Attend?
-
-This course is designed for individuals who have a foundational understanding of GoldSim and want to model complex, integrated water systems. Typical attendees include:
-
-* Environmental engineers
-* Water resource planners  
-* Consultants working on water-related projects
-* Mining engineers dealing with water management
-* Academic researchers in hydrology and water resources
-* Regulatory professionals evaluating water system models
-
----
-
-## Prerequisites
-
-To get the most out of this course, you should have:
-
-* **Basic GoldSim Experience**: Familiarity with creating simple models, understanding elements, and running simulations
-* **Water Systems Knowledge**: Understanding of basic hydrological concepts such as precipitation, evaporation, runoff, and water balance
-* **Engineering Background**: Comfort with mathematical concepts and engineering problem-solving approaches
-* **Software Setup**: Access to GoldSim Pro or higher license (some modules require advanced features)
-
----
-
-## What Will You Gain?
-
-By the end of this course, you will be able to:
-
-* **Model Integrated Water Systems**: Create comprehensive models that represent the full water cycle from precipitation to end use
-* **Handle Complex Flow Networks**: Design and implement sophisticated hydraulic networks with multiple sources, storage, and demand points
-* **Incorporate Uncertainty**: Use probabilistic approaches to account for variability in climate, demand, and system parameters
-* **Perform Risk Analysis**: Evaluate system reliability, failure probabilities, and optimization scenarios
-* **Apply Real-World Solutions**: Tackle actual water management challenges using industry-standard approaches and best practices
-
----
-
-## Course Structure
-
-This course is organized into 12 comprehensive units, each building on the previous material:
-
-1. **Getting Started** - Foundation and setup
-2. **Climate Drivers** - Modeling precipitation, temperature, and weather patterns
-3. **Surface Flow Modeling** - Rivers, streams, and runoff processes
-4. **Water Use** - Demand modeling and consumption patterns
-5. **Reservoirs** - Storage systems and operational rules
-6. **Tailings Storage Facilities** - Specialized mining applications
-7. **Hydraulics** - Flow dynamics and pressure systems
-8. **Groundwater** - Subsurface hydrology and aquifer modeling
-9. **Representing a Flow Network** - Complex system integration
-10. **Water Quality and Ecology** - Environmental considerations
-11. **Analyses** - Optimization and scenario evaluation
-12. **Risk and Reliability** - Uncertainty quantification and risk assessment
-
-Each unit contains multiple hands-on lessons with practical exercises, real-world examples, and progressive model-building activities.
-
----
-
-## Learning Approach
-
-This course emphasizes:
-
-* **Hands-On Learning**: Every concept is reinforced with practical GoldSim exercises
-* **Progressive Complexity**: Models start simple and add layers of sophistication
-* **Real-World Applications**: Examples drawn from actual water management projects
-* **Best Practices**: Industry-standard approaches and modeling conventions
-* **Problem-Solving**: Emphasis on engineering judgment and critical thinking
-
----
-
-## Getting Started
-
-Before proceeding to the next lesson, ensure you have:
-
-1. **GoldSim Software**: Pro or higher license installed and activated
-2. **Course Materials**: Access to all provided example files and datasets
-3. **System Requirements**: Adequate computing power for complex simulations
-4. **Time Commitment**: Plan for approximately 40-60 hours of total course work
-
-Ready to begin? Let's move on to setting up your learning environment and accessing the course resources.
