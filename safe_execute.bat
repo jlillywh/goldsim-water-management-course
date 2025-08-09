@@ -39,10 +39,10 @@ ECHO [STEP 1/3] Creating safety snapshot...
 
 REM Check for uncommitted changes
 git status --porcelain > temp_status.txt
-SET /P STATUS_CHECK=<temp_status.txt
+FOR /F %%i IN (temp_status.txt) DO SET "STATUS_CHECK=%%i"
 DEL temp_status.txt
 
-IF NOT "!STATUS_CHECK!"=="" (
+IF DEFINED STATUS_CHECK (
     ECHO Found uncommitted changes - creating pre-execution commit...
     git add .
     git commit -m "Pre-execution snapshot [%TIMESTAMP%] - Before: %COMMAND_LINE%"
